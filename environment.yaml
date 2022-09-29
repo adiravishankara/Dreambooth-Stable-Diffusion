@@ -18,6 +18,7 @@ dependencies:
     - pytorch-lightning==1.5.9
     - omegaconf==2.1.1
     - protobuf>=3.20.0
+    - pytorch-lightning==1.6.5
     - test-tube>=0.7.5
     - streamlit>=0.73.1
     - setuptools==59.5.0
